@@ -1,19 +1,19 @@
-<!DOCTYPE html>
+<script>
+    var meowcount = 0;
+    </script>
 <html>
-<style>
-div {
-    height: 400px;
-
-    background: linear-gradient(to top left, #ff66ff -11%, #00ffcc 108%)
-
-}
-</style>
+<head><title>0 meows</title></head>
 <body>
 
-
-<p>hello!</p>
-
-<p>as you know,im pretty new with html coding. as of last year i havent used it at all. So after last year i havedecided to remaster my (not so) awesome website. As you may have tried,it is now unexistaint. for now you have this.</p>
-
+  <a herf=# oneclick="add()"><img src="cat.gif"></a>
+  <br><br>
+  You have:
+  <input type="text" id="text" disabled style= text-align:center>
+  <script>
+function add() {
+    meowcount = meowcount + 1
+    document.getElementById('text').value = meowcount;
+}
+  </script>
 </body>
 </html>
