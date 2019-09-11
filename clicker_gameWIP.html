@@ -5,18 +5,31 @@
     
     var meowcount = 0;
 </script>
-<head><title>0 meows</title></head>
+<head><title id="txt">0 meows</title>
+<style>
+.unselectable {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+</style>
+</head>
 <body>
 
-  <a herf=# oneclick="add()"><img src="https://diamondcarepetfood.com/app/themes/diamondcare/assets/img/homepage/cat-weight-management-animal.png"></a>
+  <img src="https://diamondcarepetfood.com/app/themes/diamondcare/assets/img/homepage/cat-weight-management-animal.png" id="unscelectable"usemap="#workmap" width="300" height="300" onclick="add()">
   <br>
   You have:
-    <input type="text" id="text" disabled style= text-align:center></input>
+  <br>
+  <input type="button" id="text" onclick="add()">
   <script>
-function add() {
-    meowcount = meowcount + 1
-    document.getElementById('text').value = meowcount;
-}
+    function add() {
+      meowcount = meowcount + 1
+      document.getElementById('text').value = meowcount;
+      window.document.title = meowcount + " meows";
+    }
   </script>
 </body>
 </html>
