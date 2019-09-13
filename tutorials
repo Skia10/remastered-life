@@ -80,6 +80,37 @@ body {
   color: black;
 
 }
+</style>
+
+</head>
+
+<body>
+
+
+
+<div class="header">
+
+  <h1>We have made it reborn!</h1>
+
+  <p>Ive even resised the window for the full effect.</p>
+
+</div>
+
+
+
+<div class="topnav">
+
+  <a href="./clicker_gameWIP">Clicker Game(WIP)</aP>
+
+  <a href="./mutulate">mutulate a doll 2</a>
+
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  <a href="#">Link</a>
+  
+  <a href="#" style="float:right">Link</a>
+
+</div>
 
 
 
