@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color:red;
+}
+</style>
+</head>
+<body>
+
+<h2>How to revive your friend from the dead.</h2>
+<ul style="list-style-type:disc;">
+  <li>First you need to find em</li>
+  <li>Then you need to make sure he is dead (or she) so you gotta shoot em in the head. just to make sure.</li>
+  <li>After your done with that (assuming that you didnt pussy out) you need to draw a pentagram. Do it in the basement, if you dont have one do it in the bathroom.</li>
+  <li>When your done go into the nearest woods. Bring your gun but the scranny bitches your about to kill are fucking quick so you need to also bring a bat or something.</li>
+  <li>once you get to the forest with your supplies, do the racoon call (the sound is below somewhere), them bitches will be coming out of every direction after you do it.</li>
+  <li>Beat the holey shit out of them. you will need to kill at least 126 of them</li>
+  <li>Then you need to transport them back to the pentagram.</li>
+  <li>once they are there put your friends body in the middle of the pentigram, surround him with the racoons.</li>
+  <li>after he is fully surrounded you need to stand in the middle of the pentigram and get your bat and your gun, then shoot yourself in the head.</li>
+  <li>you should be transported to satans relm, find satan and challenge him to a dule.</li>
+  <li>he will want to play pokemon so you gotta win. (he is pretty good)</li>
+  <li>if you defeat him you need to find ur friend, then shoot him.</li>
+  <li>Then terminate yourself. you will wake up back at the pentagram with your friend, from there you need to get rid of all those bodys(including your old ones) and erase the pentigram and you should be done!</li>
+
+</ul>  
+
+<ul>
+  <li><a href="./tutorials">home</a></li>
+  <li><a href="./index"></a>real home</li>
+  <li><a href="">...</a></li>
+  <li><a href="">....</a></li>
+</ul>
+
+  <audio controls>
+    <source src="hi.mp3" type="audio/mpeg">
+  </audio>
+
+
+
+</body>
+</html>
